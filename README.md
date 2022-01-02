@@ -1,2 +1,1 @@
-# sp-server
-The Simulation Prototype - Server
+# The Simulation Prototype - Server
